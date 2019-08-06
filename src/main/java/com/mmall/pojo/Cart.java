@@ -8,7 +8,7 @@ public class Cart {
     private Integer userId;
 
     private Integer productId;
-
+//
     private Integer quantity;
 
     private Integer checked;
